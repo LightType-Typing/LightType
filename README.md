@@ -4,4 +4,4 @@ This is LightType. A offline minimalistic command line based typing program that
 # How will it work?
 
 LightType consists of a python file. Thats it. LightType will be launched with a command after downloading the python file. More on that when LightType reaches a alpha stage.
-LightType is open source and open to contributions. 
+LightType is open source and open to contributions. For more info, check out [roadmap.txt](https://github.com/LightType-Typing/LightType/blob/main/Roadmap.txt)
