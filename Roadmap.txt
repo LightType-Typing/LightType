@@ -1,0 +1,25 @@
+[LightType roadmap/plan]
+Hey all! This is just a small plan of what I want LightType to be on release.
+
+[Team]
+LightType's development team will consist of 2 people with write access to the repo, however, LightType will also be open-source!
+Feel free to join in on the development!
+
+[Language]
+LightType will be in python. We are currently looking at distribution options as we know that python is somewhat inconvienient
+in terms of distribution.
+
+[LightType as a whole]
+LightType will be a fully mouse free typing test, that has a keyboard friendly settings page, and for convenience, 
+a fully working commandline. We plan to rely on the arrow keys to quickly switch between menus.
+
+[Future plans/features]
+We are looking at the possiblility of adding steno support, as we have noticed that typing programs for steno aimed at beginners are lacking in features or
+are non-existent. Other than that, we don't really know. If you have a suggestion, create a disscussion here on the projects github!
+
+[The exciting stuff (The actual roadmap)]
+v0.0.1 - A base version of LightType that is suited for release. Will be missing features that we feel is important that will
+later be added down the road(map).
+v0.0.11 - I only added this as a note, but we will use updates as such to fix bugs or make and test small improvements and features.
+v0.0.3 - A more fleshed out version of LightType. Will include features such as navigation and test settings. We feel that this version will be the most suitable
+candiate for a beta release of LightType!
